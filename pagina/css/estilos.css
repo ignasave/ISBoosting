@@ -1,0 +1,76 @@
+
+.nav-link.active{
+	background-color: #4B515D;
+}
+.pie{
+	background-color: #343a40;
+	color: white;
+}
+body{
+	background-color: #f2f2f2;
+}
+
+.contenedor{
+	background-color: white;
+}
+
+
+.color_h4{
+	color: #606060;
+		}
+a:link{
+	text-decoration: none;
+}
+
+.pregunta{
+	background-color: #17a2b8;
+	color: white;
+}
+.pregunta:hover{
+	text-decoration: none;
+	background-color: #007bff;
+	color: white;
+	box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
+}
+
+.pregunta a:hover{
+	text-decoration: none;
+	color: white;
+}
+
+.barra-serv:hover{
+	color: white;
+}
+
+
+.barra-serv .active {
+	background-color:#eeeeee;
+}
+
+.barra-serv {
+	background-color:#343a40;
+	color: white; 
+}
+.barra-serv a{
+	color: white;
+}
+
+hr {
+	color: #17a2b8;
+	background-color: #17a2b8;
+	width: 95%
+}
+
+.hr-2 {
+	color: #17a2b8;
+	background-color: #17a2b8;
+	width: 65%
+}
+.sube{
+	background-color: #2BBBAD;
+	color: #eeeeee;
+}
+.boostea{
+	background-color: #ff4444;
+	color: #eeeeee;
+}
